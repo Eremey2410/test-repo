@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/https://eremey2410.github.io/test-repo/static/css/main.7acaea2f.css",
-    "main.js": "/https://eremey2410.github.io/test-repo/static/js/main.07d3183d.js",
+    "main.js": "/https://eremey2410.github.io/test-repo/static/js/main.d77cd060.js",
     "index.html": "/https://eremey2410.github.io/test-repo/index.html",
     "main.7acaea2f.css.map": "/https://eremey2410.github.io/test-repo/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/https://eremey2410.github.io/test-repo/static/js/main.07d3183d.js.map"
+    "main.d77cd060.js.map": "/https://eremey2410.github.io/test-repo/static/js/main.d77cd060.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.d77cd060.js"
   ]
 }
